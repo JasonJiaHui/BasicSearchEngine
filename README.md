@@ -24,6 +24,8 @@ In general, I use skiplist to store the inverted index and use last postition to
 	== tool.cpp (some sort funtion, explain below)
 	== tool.h
 	== words.tar (include stopwords.txt)
+	== raw_data_legal_xml.zip (raw data of xml for index)
+	== raw_data_man.zip (raw data of man doc in linux for index)
 	== README.txt
   
 ======Main idea of search engine:
