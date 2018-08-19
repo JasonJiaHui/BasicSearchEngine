@@ -26,6 +26,7 @@ In general, I use skiplist to store the inverted index and use last postition to
 	== words.tar (include stopwords.txt)
 	== raw_data_legal_xml.zip (raw data of xml for index)
 	== raw_data_man.zip (raw data of man doc in linux for index)
+	== external_sort (a demo of external merge sort)
 	== README.txt
   
 ======Main idea of search engine:
